@@ -2,5 +2,5 @@ namespace HarryBlazor;
 
 public class TodoItem
 {
-    public string Todo { get; set; }
+    public string? Todo { get; set; }
 }
